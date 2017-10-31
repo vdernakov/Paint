@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_open_image">Open image</string>
+    <string name="action_take_photo">Take photo</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_paint">PaintActivity</string>
+    <string name="message_saved">Saved.</string>
+    <string name="message_error_saving">Error</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="stroke_width_dialog_title">Stroke width</string>
+    <string name="error_share_message">Sorry. Can\'t share :(</string>
+</resources>

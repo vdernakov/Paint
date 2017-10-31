@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tool_move"
+            android:icon="@drawable/ic_tool_move"
+            android:title="Move"/>
+        <item
+            android:id="@+id/tool_brush"
+            android:icon="@drawable/ic_tool_brush"
+            android:title="Brush"/>
+        <item
+            android:id="@+id/tool_oval"
+            android:icon="@drawable/ic_tool_oval"
+            android:title="Ellipse"/>
+        <item
+            android:id="@+id/tool_rectangle"
+            android:icon="@drawable/ic_tool_rectangle"
+            android:title="Rectangle"/>
+    </group>
+
+</menu>
